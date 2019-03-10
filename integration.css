@@ -1,0 +1,269 @@
+@font-face {
+font-family: 'partybusiness';
+src: url('partybusiness.ttf');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'anicb';
+src: url('anicb___.ttf');
+font-weight: normal;
+font-style: normal;
+}
+@font-face {
+font-family: 'tngan';
+src: url('tngan.ttf');
+font-weight: normal;
+font-style: normal;
+}
+#bas {
+  background-image: url(bg_dark.png);
+}
+#tout {
+  background-color: rgb(236,233,233)
+}
+.control{
+height: 26%;
+top: 33%;
+width: 86px;
+background: black;}
+
+#bar{
+  background-color: rgb(225,109,14);
+}
+
+.navbar-brand {
+  font-size: 1rem;
+  font-family: "anicb";
+}
+
+.p3{
+  color: orange;
+}
+h3 {
+  padding: 2%;
+}
+#titi, #toto {
+  font-family: "anicb";
+}
+#titi {
+  font-size: 1.5rem;
+}
+#toto {
+  font-size: 1rem;
+}
+#stop0, #stop, #stop1, #stop2, #stop3, #stop4, #stop5, #stop6, #stop7, #stop8, #stop9, #stop10 {
+  color: white;
+}
+#menu {
+  justify-content: flex-end;
+}
+
+h5
+{
+  font-family: "partybusiness";
+  font-size: 50px;
+}
+.slide {
+  font-family: "partybusiness";
+  font-size: 30px;
+}
+.para{overflow:auto; height:150px}
+#carouselExampleControls .carousel-item
+{
+  max-height: 100%;
+}
+
+#coin {
+  background-image: url(bg_dark.png);
+  color: white;
+}
+.block_3:hover .reward {
+    opacity: 0;
+}
+.card-body{
+  background-color: black;
+}
+.card-deck {
+  padding: 3%
+}
+.badge {
+  font-family: "partybusiness";
+  color: orange;
+  font-size: 2rem;
+}
+.card-text{
+  color: white;
+  font-family: "partybusiness";
+  font-size: 1.5em;
+}
+#foot{
+  background-color: rgb(225,109,14);
+  color: white;
+  font-family: "anicb";
+}
+h3 {
+  font-family: "anicb";
+}
+.long {
+  font-family: "partybusiness";
+}
+#ring{
+  background-color: black;
+  color: white;
+}
+
+#gollum{
+  background-color: black;
+  color: white;
+}
+
+.card-header{
+  color:white;
+  background-color: #F7730C;
+}
+
+.cardgollum{
+  color:black;
+}
+#btbt {
+  color: orange;
+  margin-bottom: 5%;
+  padding: 1%;
+  font-family: "partybusiness";
+  font-size: 1.5rem;
+}
+#gol {
+  background-image: url(bg_dark.png);
+}
+.p3{
+  font-family: "tngan"
+}
+.gandalf{
+  margin-top: 150px;
+  left: 70px;
+  font-family: Aniron;
+  color: white;
+  position:absolute;
+  font-size:30px;
+}
+
+.aragorn{
+  margin-top: 150px;
+  left: 70px;
+  font-family: Aniron;
+  color: white;
+  position:absolute;
+  font-size:30px;
+}
+
+.gimli{
+  margin-top: 150px;
+  left: 90px;
+  font-family: Aniron;
+  color: white;
+  position:absolute;
+  font-size:30px;
+  text-decoration: line-through;
+}
+#tzn {
+  background-color: white;
+  color: black;
+}
+th, td {
+  color: black;
+}
+#tic {
+  background-image: url(bg_dark.png);
+}
+.card{
+  position:relative;
+  width: 300px;
+  padding: 8px;
+}
+
+.card-title{
+  color:white;
+  text-align:center;
+  font-size: 2rem;
+}
+
+
+.card .reward span{
+  color: orange;
+}
+
+
+.reward{
+  margin-top: 15px;
+  left: 50px;
+  top:0;
+  color: black;
+  position:absolute;
+  font-family: Aniron;
+  color: white;
+}
+
+.card-img-top{
+  background-color:white;
+  opacity: 0.2;
+}
+
+.card:hover .card-img-top{
+	opacity: 1;
+}
+
+.card:hover .reward{
+  visibility: hidden;
+}
+
+.dead{
+  margin-top: 15px;
+  left: 150px;
+  top:0;
+  color: orange;
+  font-size: 35px;
+  position:absolute;
+  font-family: "party";
+}
+#contactus {
+  color: white;
+}
+#atr {
+  color: white;
+}
+.lala {
+  font-family: "anicb";
+}
+.card:hover .dead{
+  visibility: hidden;
+
+}
+#we {
+  padding-right: 10%;
+}
+#kiki {
+  justify-content: space-around;
+  margin-bottom: 5%;
+}
+#bu2 {
+  align-content: flex-end;
+}
+
+#titi, #tata {
+  margin: 3%;
+}
+#fellows{
+  font-family: "party";
+  text-align: center;
+  font-size: 33px;
+  background-image:url(https://image.noelshack.com/fichiers/2019/09/7/1551614103-bg-light.png);
+}
+
+f#ellowss{
+  background-image:url(https://image.noelshack.com/fichiers/2019/09/7/1551614103-bg-light.png)
+}
+
+#jointhearmy{
+  background-image:url(https://image.noelshack.com/fichiers/2019/09/7/1551614103-bg-light.png);
+}
